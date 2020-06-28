@@ -1,0 +1,8 @@
+{
+  "message": "my commit message",
+  "committer": {
+    "name": "Pavani Sreshta",
+    "email": "PavaniSreshta@github.com"
+  },
+  "content": "bXkgbmV3IGZpbGUgY29udGVudHM="
+}
