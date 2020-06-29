@@ -1,0 +1,5 @@
+
+class List
+ # Sets the publisher name for the list.
+ cattr_accessor :publisher
+end
