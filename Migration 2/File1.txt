@@ -6,3 +6,20 @@
   },
   "content": "bXkgbmV3IGZpbGUgY29udGVudHM="
 }
+
+{
+  "content": {
+    "name": "hello.txt",
+    "path": "notes/hello.txt",
+    "sha": "a56507ed892d05a37c6d6128c260937ea4d287bd",
+    "size": 9,
+    "url": "https://api.github.com/repos/octocat/Hello-World/contents/notes/hello.txt",
+    "html_url": "https://github.com/octocat/Hello-World/blob/master/notes/hello.txt",
+    "git_url": "https://api.github.com/repos/octocat/Hello-World/git/blobs/a56507ed892d05a37c6d6128c260937ea4d287bd",
+    "download_url": "https://raw.githubusercontent.com/octocat/HelloWorld/master/notes/hello.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/octocat/Hello-World/contents/notes/hello.txt",
+      "git": "https://api.github.com/repos/octocat/Hello-World/git/blobs/a56507ed892d05a37c6d6128c260937ea4d287bd",
+      "html": "https://github.com/octocat/Hello-World/blob/master/notes/hello.txt"
+    }
